@@ -1,0 +1,259 @@
+<svg width="1000" height="300" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f14"/>
+      <stop offset="55%" stop-color="#101820"/>
+      <stop offset="100%" stop-color="#071014"/>
+    </linearGradient>
+
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .terminal {
+        font-family: "JetBrains Mono", "Courier New", monospace;
+      }
+
+      .title {
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 700;
+      }
+
+      .fade1 {
+        opacity: 0;
+        animation: appear 0.8s ease forwards;
+        animation-delay: 0.4s;
+      }
+
+      .fade2 {
+        opacity: 0;
+        animation: appear 0.8s ease forwards;
+        animation-delay: 1s;
+      }
+
+      .fade3 {
+        opacity: 0;
+        animation: appear 0.8s ease forwards;
+        animation-delay: 1.6s;
+      }
+
+      .fade4 {
+        opacity: 0;
+        animation: appear 0.8s ease forwards;
+        animation-delay: 2.2s;
+      }
+
+      .cursor {
+        animation: blink 1s step-end infinite;
+      }
+
+      @keyframes appear {
+        from {
+          opacity: 0;
+          transform: translateY(8px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      @keyframes blink {
+        50% {
+          opacity: 0;
+        }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="300" rx="24" fill="url(#bg)"/>
+
+  <!-- Subtle border -->
+  <rect
+    x="1"
+    y="1"
+    width="998"
+    height="298"
+    rx="23"
+    fill="none"
+    stroke="#26323d"
+    stroke-width="2"
+  />
+
+  <!-- Cyan ambient glow -->
+  <circle
+    cx="850"
+    cy="40"
+    r="130"
+    fill="#06b6d4"
+    opacity="0.06"
+  />
+
+  <circle
+    cx="900"
+    cy="250"
+    r="170"
+    fill="#22d3ee"
+    opacity="0.035"
+  />
+
+  <!-- Terminal top bar -->
+  <rect
+    x="28"
+    y="24"
+    width="944"
+    height="38"
+    rx="10"
+    fill="#0d141b"
+  />
+
+  <circle cx="50" cy="43" r="5" fill="#3b4650"/>
+  <circle cx="68" cy="43" r="5" fill="#3b4650"/>
+  <circle cx="86" cy="43" r="5" fill="#3b4650"/>
+
+  <text
+    x="500"
+    y="48"
+    text-anchor="middle"
+    class="terminal"
+    font-size="13"
+    fill="#6b7a88"
+  >
+    hanmanth@github ~ / profile
+  </text>
+
+  <!-- Terminal command -->
+  <text
+    x="58"
+    y="105"
+    class="terminal fade1"
+    font-size="15"
+    fill="#67e8f9"
+  >
+    &gt; initializing intelligent systems...
+  </text>
+
+  <!-- Main name -->
+  <text
+    x="58"
+    y="155"
+    class="title fade2"
+    font-size="42"
+    fill="#f4f7f9"
+  >
+    HANMANTH PATIL
+  </text>
+
+  <!-- Role -->
+  <text
+    x="60"
+    y="188"
+    class="terminal fade3"
+    font-size="17"
+    fill="url(#cyan)"
+  >
+    AI/ML ENGINEER &amp; INTELLIGENT SYSTEMS BUILDER
+  </text>
+
+  <!-- Focus -->
+  <text
+    x="60"
+    y="224"
+    class="terminal fade4"
+    font-size="14"
+    fill="#9aa8b5"
+  >
+    AI/ML   •   SOFTWARE   •   ROBOTICS   •   CYBERSECURITY   •   IoT
+  </text>
+
+  <!-- Status -->
+  <text
+    x="60"
+    y="262"
+    class="terminal fade4"
+    font-size="13"
+    fill="#53616d"
+  >
+    status:
+  </text>
+
+  <text
+    x="112"
+    y="262"
+    class="terminal fade4"
+    font-size="13"
+    fill="#67e8f9"
+  >
+    building
+  </text>
+
+  <text
+    x="185"
+    y="262"
+    class="terminal cursor"
+    font-size="14"
+    fill="#67e8f9"
+  >
+    █
+  </text>
+
+  <!-- Right-side system indicator -->
+  <g transform="translate(825 135)">
+    <circle
+      cx="0"
+      cy="0"
+      r="46"
+      fill="none"
+      stroke="#1d3942"
+      stroke-width="1"
+    />
+
+    <circle
+      cx="0"
+      cy="0"
+      r="34"
+      fill="none"
+      stroke="#164e63"
+      stroke-width="1"
+    />
+
+    <circle
+      cx="0"
+      cy="0"
+      r="5"
+      fill="#22d3ee"
+      filter="url(#glow)"
+    />
+
+    <path
+      d="M-22 0 H22 M0 -22 V22"
+      stroke="#245766"
+      stroke-width="1"
+    />
+
+    <text
+      x="0"
+      y="70"
+      text-anchor="middle"
+      class="terminal"
+      font-size="10"
+      fill="#4f6570"
+    >
+      SYSTEMS ONLINE
+    </text>
+  </g>
+
+</svg>
