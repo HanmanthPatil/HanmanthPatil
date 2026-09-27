@@ -1,17 +1,14 @@
 <div align="center">
 
-# HANMANTH PATIL
+<img src="./assets/hero.svg" width="100%" alt="Hanmanth Patil — AI/ML Engineer & Intelligent Systems Builder">
 
-### AI/ML Engineer & Intelligent Systems Builder
+<br>
 
-**AI/ML · Software · Robotics · Cybersecurity · IoT · Product Design**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-hanmanthpatil.me-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.hanmanthpatil.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanmanth%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanmanthpatil/)
-[![GitHub](https://img.shields.io/badge/GitHub-HanmanthPatil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanmanthPatil)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-hanmanthpatil.me-0b0f14?style=for-the-badge&logo=googlechrome&logoColor=67e8f9)](https://www.hanmanthpatil.me/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Hanmanth%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanmanthpatil/)
+[![GitHub](https://img.shields.io/badge/GITHUB-HanmanthPatil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HanmanthPatil)
 
 </div>
-
 ---
 
 ## About Me
