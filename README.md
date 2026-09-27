@@ -239,28 +239,46 @@ Rural and urban bus-tracking system designed to provide real-time bus location a
 
 ---
 
+## Education
+
+### 🎓 B.E. — Artificial Intelligence & Machine Learning
+
+**Shetty Institute of Technology, Kalaburagi**
+
+August 2023 – Present
+
+Building a strong foundation across Artificial Intelligence, Machine Learning, Natural Language Processing, Blockchain, Computer Networks, Database Systems, and software engineering.
+
+---
+
 ## Leadership
 
-### Bits and Bots
+### 🤖 Bits and Bots
+
 **Co-Founder & Head of Team Management**  
-December 2024 – Present
+**December 2024 – Present**
 
-Multidisciplinary student technology ecosystem working across robotics, AI, software, IoT, UI/UX, and innovation.
+Student-led technical ecosystem focused on robotics, AI, software development, IoT, UI/UX, and technology-driven innovation.
 
-### Sports Club — Shetty Institute of Technology
+### 🏅 Sports Club — Shetty Institute of Technology
+
 **Vice President**  
-December 2025 – Present
+**December 2025 – Present**
+
+Contributing to student leadership, sports activities, coordination, and campus initiatives.
 
 ---
 
 ## Certifications
 
-- **Prompt Engineering** — Great Learning
-- **Career Essentials in Generative AI** — Microsoft & LinkedIn
-- **Career Essentials in GitHub Professional Certificate** — GitHub & LinkedIn
-- **Career Essentials in Sustainable Tech** — Microsoft & LinkedIn
-- **Career Essentials in Cybersecurity** — Microsoft & LinkedIn
-- **TestMu AI Software Testing Professional Certification** — TestMu AI
+| Certification | Issuer |
+|:---|:---|
+| **Prompt Engineering** | Great Learning |
+| **Career Essentials in Generative AI** | Microsoft & LinkedIn |
+| **Career Essentials in Sustainable Tech** | Microsoft & LinkedIn |
+| **GitHub Professional Certificate** | GitHub & LinkedIn |
+| **TestMu AI Software Testing Professional Certification** | TestMu AI |
+| **Cybersecurity Professional Certificate** | Microsoft & LinkedIn |
 
 ---
 
