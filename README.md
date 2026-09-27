@@ -188,29 +188,54 @@ Rural and urban bus-tracking system designed to provide real-time bus location a
 
 ---
 
-## Robotics
+## Robotics Systems
 
-`RoboRace` · `RoboSoccer` · `Line Following Robot` · `Maze Solver` · `RoboSumo` · `RoboWar` · `Obstacle Avoider`
+<div align="center">
+
+| 🤖 Robotics Projects | 🤖 Robotics Projects |
+|:---:|:---:|
+| **RoboRace** | **RoboSoccer** |
+| **Line Following Robot** | **Maze Solver** |
+| **RoboSumo** | **RoboWar** |
+| **Obstacle Avoider** | **Drones** |
+
+</div>
 
 ---
 
 ## Achievements
 
-🏆 **4 × 1st Prize**  
-🥈 **3 × 2nd Prize**  
-🥉 **2 × 3rd Prize**
+<div align="center">
 
-### Selected Wins
+### 🏆 Competition Record
 
-- 🥇 **1st Prize** — TECH X, ComedKares — UI/UX Design Challenge
-- 🥇 **1st Prize** — TechFusionn'24 — Line Following
-- 🥇 **1st Prize** — NIT Trichy — Robo Soccer
-- 🥇 **1st Prize** — SIH Internal Hackathon 2026
-- 🥈 **2nd Prize** — !!ENGINEER'24!!, NIT Karnataka — Line Following
-- 🥈 **2nd Prize** — TechFusionn'24 — Robusta Line Following
-- 🥈 **2nd Prize** — AVIRAT '25, SBR College — RoboRace
-- 🥉 **3rd Prize** — TechFusionn'24 — RoboRace
-- 🥉 **3rd Prize** — INEX Tumkur — Idea Pitching
+**🥇 4 First Prizes** &nbsp;&nbsp; **🥈 3 Second Prizes** &nbsp;&nbsp; **🥉 2 Third Prizes**
+
+</div>
+
+### 🥇 First Prizes
+
+| Event | Competition | Team / Project |
+|:---|:---|:---|
+| **TECH X – ComedKares** | UI/UX Design Challenge | **Tech Tribes — EquipLease** |
+| **TechFusionn'24 – Rajarajeshwari College of Engineering** | Line Following Bot | **Blue Beetles** |
+| **NIT Trichy** | Robo Soccer | **Robotics Team** |
+| **SIH Internal Hackathon 2026 – SIT Kalaburagi** | Hackathon | **Team** |
+
+### 🥈 Second Prizes
+
+| Event | Competition | Team / Project |
+|:---|:---|:---|
+| **!!ENGINEER'24!! – NIT Karnataka, Surathkal** | Line Following Bot | **Blue Beetles** |
+| **TechFusionn'24 – Rajarajeshwari College of Engineering** | Line Following Bot | **Robusta** |
+| **AVIRAT '25 – SBR College, Kalaburagi** | RoboRace | **Robotics Team** |
+
+### 🥉 Third Prizes
+
+| Event | Competition | Team / Project |
+|:---|:---|:---|
+| **TechFusionn'24 – Rajarajeshwari College of Engineering** | RoboRace Bot | **Blue Beetles** |
+| **INEX – Tumkur** | Idea Pitching Competition | **Individual / Team** |
 
 ---
 
