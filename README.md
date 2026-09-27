@@ -10,6 +10,15 @@
 
 </div>
 ---
+<div align="center">
+  <img
+    src="./assets/contrib-heatmap.svg"
+    width="100%"
+    alt="GitHub contribution activity"
+  >
+</div>
+
+---
 
 ## About Me
 
