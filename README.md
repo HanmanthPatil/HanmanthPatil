@@ -79,28 +79,87 @@ My work spans AI-powered cybersecurity, intelligent agriculture, roadside assist
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛡️ PHISHGUARD 2.0
 
-AI-powered cybersecurity platform that analyzes URLs, messages, files, and images to detect phishing and malicious content and generate centralized risk assessments.
+**AI Cybersecurity Platform**
 
-**Focus:** AI · Cybersecurity · NLP · Threat Detection · FastAPI · Docker
+AI-powered platform for detecting phishing URLs, scam messages, malicious files, fraudulent content, and other online threats.
 
----
+**AI · Cybersecurity · NLP · Threat Detection · FastAPI · Docker**
+
+</td>
+
+<td width="50%" valign="top">
 
 ### ⚙️ EquipLease
 
-Industrial equipment rental platform connecting equipment owners with renters through equipment discovery and rental workflows.
+**Industrial Equipment Marketplace**
 
-**Focus:** Product Design · UI/UX · Web Development · Software Engineering
+Digital platform connecting equipment owners and renters through equipment discovery and rental workflows.
 
----
+**UI/UX · Product Design · Web Development · Software Engineering**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🚗 RoadResQ
 
-Intelligent roadside assistance platform connecting vehicle owners with suitable mechanics based on expertise, equipment, availability, and real-time needs.
+**Intelligent Roadside Assistance**
 
-**Focus:** AI · Intelligent Systems · Web Development · Product Design
+Connects vehicle owners with suitable mechanics based on expertise, equipment, availability, and real-time assistance needs.
 
+**AI · Intelligent Systems · Web · Product Design**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Agri Sahayak
+
+**AI Smart Farming Assistant**
+
+AI-powered agricultural platform combining plant disease diagnosis with intelligent farming assistance.
+
+**AI/ML · Computer Vision · Agriculture Tech · Software**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📍 NearByNest
+
+**Nearby Buyers Marketplace**
+
+Marketplace connecting farmers and local sellers with nearby buyers to improve direct market access and local trade.
+
+**Web · Marketplace · Product Design · Software**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚌 YatraTrack
+
+**Smart Bus Tracking System**
+
+Rural and urban bus-tracking system designed for real-time transportation visibility and smarter public mobility.
+
+**IoT · GPS · Embedded Systems · Real-Time Tracking**
+
+**Selected for NAIN**
+
+</td>
+</tr>
+</table>
 ---
 
 ### 🌱 Agri Sahayak
