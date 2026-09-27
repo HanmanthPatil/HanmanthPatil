@@ -26,19 +26,54 @@ My work spans AI-powered cybersecurity, intelligent agriculture, roadside assist
 ## Tech Stack
 
 ### AI / ML
-`Python` `Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI`
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv&theme=dark" />
+
+</div>
+
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision` `Generative AI`
 
 ### Software / Web
-`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `FastAPI` `REST APIs`
 
-### Cybersecurity
-`Phishing Detection` `Threat Analysis` `Cybersecurity` `Security Architecture`
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,tailwind&theme=dark" />
+
+</div>
+
+`REST APIs` `Web Applications` `Full-Stack Development`
+
+### Backend / DevOps
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github&theme=dark" />
+
+</div>
+
+`API Development` `Containerization` `Version Control`
 
 ### Robotics / IoT
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=c,arduino&theme=dark" />
+
+</div>
+
 `Robotics` `IoT` `Embedded Systems` `GPS` `Sensors` `Automation`
 
-### Tools & Design
-`Git` `GitHub` `Docker` `Figma` `WordPress` `UI/UX` `Product Design`
+### Design
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+
+</div>
+
+`UI/UX Design` `Product Design` `Digital Experiences`
 
 ---
 
